@@ -1,8 +1,10 @@
 #!/bin/bash
 
 # Set values for your Search service
-url="YOUR_SEARCH_URL"
-admin_key="YOUR_ADMIN_KEY"
+#url="YOUR_SEARCH_URL"
+url=https://searchservice60818600.search.windows.net
+#admin_key="YOUR_ADMIN_KEY"
+admin_key=U1vM2XX68nE66zOcHJaubEEog3QUQ9fNOCOIUaXmRWAPEPEpecas
 
 echo "-----"
 echo "Updating the skillset..."
